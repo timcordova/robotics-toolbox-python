@@ -1,17 +1,24 @@
-A port of the Robotics Toolbox for Matlab to the Python language.
+Python robotics toolkit
+========================
+
+An unnoficial mirror of the [python port](https://code.google.com/p/robotics-toolbox-python/) of the
+[Robotics Toolbox for Matlab.](http://petercorke.com/Robotics_Toolbox.html)
 
 First version is out now with support for:
 
-homogeneous transforms
-unit-quaternions
-trajectories
-forward and inverse kinematics
-inverse dynamics
-Rudimentary 3D graphics is now available:
+* homogeneous transforms
+* unit-quaternions
+* trajectories
+* forward and inverse kinematics
+* inverse dynamics
+* Rudimentary 3D graphics is now available: check out the trplot() function
 
-check out the trplot() function
 For the moment there is no:
 
-graphical animation
-forward dynamics
+* graphical animation
+* forward dynamics
+
+
 Built on NumPy.
+
+Licence currently unclear.
